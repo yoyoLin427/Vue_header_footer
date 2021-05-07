@@ -16,7 +16,9 @@ yarn serve
 
 ## 使用
 請看scr/views/Feeling.vue
-or
+
+或是
+
 scr/views/Temp.vue
 ```
 Header使用方法
