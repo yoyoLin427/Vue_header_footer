@@ -48,11 +48,10 @@ Footer使用方法:
 
 
 內容是可以調整的!
-例:(左邊網頁的樣子,右邊code)
- ![image](https://github.com/yoyoLin427/Vue_header_footer/blob/master/messageImage_1620360467867.jpg)
- ![image](https://github.com/yoyoLin427/Vue_header_footer/blob/master/messageImage_1620360517777.jpg)
- ![image](https://github.com/yoyoLin427/Vue_header_footer/blob/master/messageImage_1620360548619.jpg)
- ![image](https://github.com/yoyoLin427/Vue_header_footer/blob/master/messageImage_1620360609127.jpg)
+
+ ![image](https://github.com/yoyoLin427/Vue_header_footer/blob/master/demo1.jpg)
+ ![image](https://github.com/yoyoLin427/Vue_header_footer/blob/master/demo2.jpg)
+ ![image](https://github.com/yoyoLin427/Vue_header_footer/blob/master/demo3.jpg)
  
 
 ## 其他
