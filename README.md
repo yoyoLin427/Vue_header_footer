@@ -10,15 +10,13 @@ yarn install
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
 
-### Lints and fixes files
-```
-yarn lint
-```
+開 http://localhost:8080/feeling
+才會有畫面(就是後面要加上/feeling)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 使用
+請看scr/views/Feeling.vue
+or
+scr/views/Temp.vue
+
+把code寫在 Nav 和 Footer 之間即可
